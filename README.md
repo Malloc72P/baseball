@@ -60,4 +60,5 @@ NAS, SIENNA, JUNAMI의 야구게임에 오신 것을 환영합니다💕
 
 ### 프로젝트 미리보기
 
-![baseball](https://ibb.co/1qym08c)
+![image](https://user-images.githubusercontent.com/65053955/117413139-8fd0c380-af50-11eb-9eb5-74fe934fd735.png)
+
