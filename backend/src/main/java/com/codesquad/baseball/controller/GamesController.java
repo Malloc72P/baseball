@@ -91,7 +91,7 @@ public class GamesController {
             "    }\n" +
             "}";
     private static final String gamesJsonData = "{\n" +
-            "    \"games\" : [\n" +
+            "    \"games\": [\n" +
             "        {\n" +
             "            \"id\": 1,\n" +
             "            \"gameTitle\": \"GAME 1\",\n" +
@@ -122,6 +122,90 @@ public class GamesController {
             "        },\n" +
             "        {\n" +
             "            \"id\": 3,\n" +
+            "            \"gameTitle\": \"GAME 3\",\n" +
+            "            \"homeTeam\": {\n" +
+            "                \"id\": 5,\n" +
+            "                \"teamName\": \"Rockets\",\n" +
+            "                \"occupied\": true\n" +
+            "            },\n" +
+            "            \"awayTeam\": {\n" +
+            "                \"id\": 6,\n" +
+            "                \"teamName\": \"Dodgers\",\n" +
+            "                \"occupied\": false\n" +
+            "            }\n" +
+            "        },\n" +
+            "                {\n" +
+            "            \"id\": 4,\n" +
+            "            \"gameTitle\": \"GAME 3\",\n" +
+            "            \"homeTeam\": {\n" +
+            "                \"id\": 5,\n" +
+            "                \"teamName\": \"Rockets\",\n" +
+            "                \"occupied\": true\n" +
+            "            },\n" +
+            "            \"awayTeam\": {\n" +
+            "                \"id\": 6,\n" +
+            "                \"teamName\": \"Dodgers\",\n" +
+            "                \"occupied\": false\n" +
+            "            }\n" +
+            "        },\n" +
+            "                {\n" +
+            "            \"id\": 5,\n" +
+            "            \"gameTitle\": \"GAME 3\",\n" +
+            "            \"homeTeam\": {\n" +
+            "                \"id\": 5,\n" +
+            "                \"teamName\": \"Rockets\",\n" +
+            "                \"occupied\": true\n" +
+            "            },\n" +
+            "            \"awayTeam\": {\n" +
+            "                \"id\": 6,\n" +
+            "                \"teamName\": \"Dodgers\",\n" +
+            "                \"occupied\": false\n" +
+            "            }\n" +
+            "        },\n" +
+            "                {\n" +
+            "            \"id\": 6,\n" +
+            "            \"gameTitle\": \"GAME 3\",\n" +
+            "            \"homeTeam\": {\n" +
+            "                \"id\": 5,\n" +
+            "                \"teamName\": \"Rockets\",\n" +
+            "                \"occupied\": true\n" +
+            "            },\n" +
+            "            \"awayTeam\": {\n" +
+            "                \"id\": 6,\n" +
+            "                \"teamName\": \"Dodgers\",\n" +
+            "                \"occupied\": false\n" +
+            "            }\n" +
+            "        },        \n" +
+            "        {\n" +
+            "            \"id\": 7,\n" +
+            "            \"gameTitle\": \"GAME 3\",\n" +
+            "            \"homeTeam\": {\n" +
+            "                \"id\": 5,\n" +
+            "                \"teamName\": \"Rockets\",\n" +
+            "                \"occupied\": true\n" +
+            "            },\n" +
+            "            \"awayTeam\": {\n" +
+            "                \"id\": 6,\n" +
+            "                \"teamName\": \"Dodgers\",\n" +
+            "                \"occupied\": false\n" +
+            "            }\n" +
+            "        },\n" +
+            "        {\n" +
+            "            \"id\": 8,\n" +
+            "            \"gameTitle\": \"GAME 3\",\n" +
+            "            \"homeTeam\": {\n" +
+            "                \"id\": 5,\n" +
+            "                \"teamName\": \"Rockets\",\n" +
+            "                \"occupied\": true\n" +
+            "            },\n" +
+            "            \"awayTeam\": {\n" +
+            "                \"id\": 6,\n" +
+            "                \"teamName\": \"Dodgers\",\n" +
+            "                \"occupied\": false\n" +
+            "            }\n" +
+            "        },\n" +
+            "        {\n" +
+            "            \"id\": 9,\n" +
             "            \"gameTitle\": \"GAME 3\",\n" +
             "            \"homeTeam\": {\n" +
             "                \"id\": 5,\n" +
