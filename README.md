@@ -57,7 +57,7 @@ NAS, SIENNA, JUNAMI의 야구게임에 오신 것을 환영합니다💕
 - [회의록](https://github.com/Malloc72P/baseball/wiki/%ED%9A%8C%EC%9D%98%EB%A1%9D-1%EC%A3%BC-1%EC%9D%BC%EC%B0%A8)
 - [야구 룰 정리](https://github.com/Malloc72P/baseball/wiki/%EC%95%BC%EA%B5%AC-%EB%A3%B0-%EC%A0%95%EB%A6%AC)
 - [컴포넌트 구조](https://github.com/Malloc72P/baseball/wiki/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EA%B5%AC%EC%A1%B0)
-
+![tree_baseball](https://user-images.githubusercontent.com/65053955/117412098-5481c500-af4f-11eb-97ee-8087435fde6a.png)
 ### 프로젝트 미리보기
 
 ![baseball](https://ibb.co/1qym08c)
