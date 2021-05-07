@@ -23,7 +23,7 @@ NAS, SIENNA, JUNAMI의 야구게임에 오신 것을 환영합니다💕
 - 매일 6시 회고 겸 API 회의하기
   이전 프로젝트에서 느꼈던 우리의 고민들..
   - 백엔드는 프론트의 작업상황을 잘 모르니 너무 궁금해요!
-  - 프론트끼리도 서로의 고민을 알 수 있어요 !
+  - 프론트끼리도 서로의 고민을 알고 싶어요 !  
     좀 더 원활한 소통을 위해 매일 회고를 하기로 결정!
   - 매일 6시, 함께 회고를 작성하는 시간으로 하루를 마무리합니다 !
 - [1주차 회고 보기](https://github.com/Malloc72P/baseball/wiki/%EB%8D%B0%EC%9D%BC%EB%A6%AC%ED%9A%8C%EA%B3%A0-1%EC%A3%BC%EC%B0%A8%F0%9F%8C%B8)
@@ -57,7 +57,7 @@ NAS, SIENNA, JUNAMI의 야구게임에 오신 것을 환영합니다💕
 - [회의록](https://github.com/Malloc72P/baseball/wiki/%ED%9A%8C%EC%9D%98%EB%A1%9D-1%EC%A3%BC-1%EC%9D%BC%EC%B0%A8)
 - [야구 룰 정리](https://github.com/Malloc72P/baseball/wiki/%EC%95%BC%EA%B5%AC-%EB%A3%B0-%EC%A0%95%EB%A6%AC)
 - [컴포넌트 구조](https://github.com/Malloc72P/baseball/wiki/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EA%B5%AC%EC%A1%B0)
-![tree_baseball](https://user-images.githubusercontent.com/65053955/117412098-5481c500-af4f-11eb-97ee-8087435fde6a.png)
+
 ### 프로젝트 미리보기
 
 ![baseball](https://ibb.co/1qym08c)
