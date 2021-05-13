@@ -10,7 +10,7 @@ public class GoogleUrlService {
     //GOOGLE SCOPES
     public static final String GOOGLE_SCOPE_EMAIL = "https://www.googleapis.com/auth/userinfo.email";
     public static final String GOOGLE_SCOPE_PROFILE = "https://www.googleapis.com/auth/userinfo.profile";
-    public static final String REDIRECT_URI = "http://localhost:8080/users/callback";
+    public static final String REDIRECT_URI = "http://15.164.155.212/users/callback";
     //GOOGLE APIS
     private static final String GOOGLE_API_GET_LOGIN_PAGE = "https://accounts.google.com/o/oauth2/v2/auth";
     private final OAuthConfigManager oAuthConfigManager;
