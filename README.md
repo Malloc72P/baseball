@@ -2,7 +2,7 @@
 <h1>👪 팀 소개</h1>
 
 
-BE - 유일한 희망💙
+BE - 유일한 희망💙  
 FE - 야구를 미션으로 배우고 있는 NAS의 제자들 SIENNA, JUNAMI  
 NAS, SIENNA, JUNAMI의 야구게임에 오신 것을 환영합니다💕  
 
